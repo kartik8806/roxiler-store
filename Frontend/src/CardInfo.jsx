@@ -35,7 +35,7 @@ const CardInfo = () => {
                 <Card.Text>
                  <strong>
                   <>
-                    <Rating Userid{1}, Storeid{store.storeid}/>
+                    <Rating userId={1} storeId={store.id}/>
                   </>
                  </strong>
                 </Card.Text>
